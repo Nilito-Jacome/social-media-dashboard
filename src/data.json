@@ -1,0 +1,1154 @@
+{
+    "ene": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 1987,
+                "title": "Followers",
+                "today": 12,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 1044,
+                "title": "Followers",
+                "today": 99,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 11000,
+                "title": "Followers",
+                "today": 1099,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 8239,
+                "title": "Subscribers",
+                "today": 144,
+                "state": false
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 87,
+                "percent": 3,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 52,
+                "percent": 2,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5462,
+                "percent": 2257,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52000,
+                "percent": 1375,
+                "state": true
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 117,
+                "percent": 303,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 507,
+                "percent": 553,
+                "state": true
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 107,
+                "percent": 19,
+                "state": false
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1407,
+                "percent": 12,
+                "state": false
+            }
+        ]
+
+    },
+    "feb": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 3977,
+                "title": "Followers",
+                "today": 27,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 2091,
+                "title": "Followers",
+                "today": 201,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 22003,
+                "title": "Followers",
+                "today": 2201,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 16481,
+                "title": "Subscribers",
+                "today": 291,
+                "state": false
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 97,
+                "percent": 23,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 64,
+                "percent": 22,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5476,
+                "percent": 2367,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52014,
+                "percent": 1635,
+                "state": false
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 334,
+                "percent": 314,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 607,
+                "percent": 1153,
+                "state": true
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 121,
+                "percent": 39,
+                "state": false
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1421,
+                "percent": 32,
+                "state": false
+            }
+        ]
+
+    },
+    "mar": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 1997,
+                "title": "Followers",
+                "today": 31,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 1054,
+                "title": "Followers",
+                "today": 298,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 11010,
+                "title": "Followers",
+                "today": 3307,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 8249,
+                "title": "Subscribers",
+                "today": 298,
+                "state": false
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 184,
+                "percent": 43,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 138,
+                "percent": 42,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5491,
+                "percent": 2457,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52029,
+                "percent": 1920,
+                "state": true
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 572,
+                "percent": 324,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 707,
+                "percent": 1753,
+                "state": false
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 136,
+                "percent": 59,
+                "state": true
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1436,
+                "percent": 52,
+                "state": true
+            }
+        ]
+
+    },
+    "abr": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 9955,
+                "title": "Followers",
+                "today": 85,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 5240,
+                "title": "Followers",
+                "today": 5515,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 55020,
+                "title": "Followers",
+                "today": 5515,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 41215,
+                "title": "Subscribers",
+                "today": 452,
+                "state": false
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 271,
+                "percent": 63,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 150,
+                "percent": 62,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5505,
+                "percent": 2757,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52043,
+                "percent": 2234,
+                "state": false
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 834,
+                "percent": 335,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 807,
+                "percent": 2353,
+                "state": true
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 150,
+                "percent": 79,
+                "state": false
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1450,
+                "percent": 72,
+                "state": true
+            }
+        ]
+
+    },
+    "may": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 5973,
+                "title": "Followers",
+                "today": 66,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 3144,
+                "title": "Followers",
+                "today": 547,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 33012,
+                "title": "Followers",
+                "today": 5507,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 24729,
+                "title": "Subscribers",
+                "today": 588,
+                "state": true
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 358,
+                "percent": 83,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 310,
+                "percent": 82,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5520,
+                "percent": 3057,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52058,
+                "percent": 2579,
+                "state": true
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1123,
+                "percent": 345,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 907,
+                "percent": 2953,
+                "state": false
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 165,
+                "percent": 99,
+                "state": true
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1465,
+                "percent": 92,
+                "state": false
+            }
+        ]
+
+    },
+    "jun": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 2037,
+                "title": "Followers",
+                "today": 47,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 1094,
+                "title": "Followers",
+                "today": 695,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 11050,
+                "title": "Followers",
+                "today": 5545,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 8289,
+                "title": "Subscribers",
+                "today": 770,
+                "state": false
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 445,
+                "percent": 103,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 322,
+                "percent": 102,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5534,
+                "percent": 3257,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52072,
+                "percent": 2959,
+                "state": false
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1440,
+                "percent": 356,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1107,
+                "percent": 3553,
+                "state": true
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 179,
+                "percent": 119,
+                "state": true
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1479,
+                "percent": 112,
+                "state": true
+            }
+        ]
+
+    },
+    "jul": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 5579,
+                "title": "Followers",
+                "today": 54,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 3150,
+                "title": "Followers",
+                "today": 897,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 33018,
+                "title": "Followers",
+                "today": 6612,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 24735,
+                "title": "Subscribers",
+                "today": 882,
+                "state": false
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 532,
+                "percent": 123,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 654,
+                "percent": 122,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5548,
+                "percent": 4616,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52086,
+                "percent": 3377,
+                "state": true
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1789,
+                "percent": 366,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1107,
+                "percent": 4153,
+                "state": false
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 193,
+                "percent": 139,
+                "state": true
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1493,
+                "percent": 132,
+                "state": true
+            }
+        ]
+
+    },
+    "ago": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 19880,
+                "title": "Followers",
+                "today": 130,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 10450,
+                "title": "Followers",
+                "today": 1000,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 110010,
+                "title": "Followers",
+                "today": 7703,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 82400,
+                "title": "Subscribers",
+                "today": 1018,
+                "state": false
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 619,
+                "percent": 143,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 666,
+                "percent": 142,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5563,
+                "percent": 5567,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52101,
+                "percent": 3837,
+                "state": false
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 2173,
+                "percent": 377,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1207,
+                "percent": 4753,
+                "state": true
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 208,
+                "percent": 159,
+                "state": false
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1508,
+                "percent": 152,
+                "state": false
+            }
+        ]
+
+    },
+    "sep": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 23904,
+                "title": "Followers",
+                "today": 204,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 12588,
+                "title": "Followers",
+                "today": 1248,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 132060,
+                "title": "Followers",
+                "today": 8852,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 823998928,
+                "title": "Subscribers",
+                "today": 1212,
+                "state": true
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 706,
+                "percent": 163,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 1342,
+                "percent": 162,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5577,
+                "percent": 5745,
+                "state": false
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52115,
+                "percent": 4343,
+                "state": true
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 2595,
+                "percent": 387,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1307,
+                "percent": 5353,
+                "state": false
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 222,
+                "percent": 179,
+                "state": true
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1522,
+                "percent": 172,
+                "state": true
+            }
+        ]
+
+    },
+    "oct": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 4074,
+                "title": "Followers",
+                "today": 220,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 2188,
+                "title": "Followers",
+                "today": 1288,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 22100,
+                "title": "Followers",
+                "today": 9991,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 16578,
+                "title": "Subscribers",
+                "today": 1396,
+                "state": true
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 793,
+                "percent": 183,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 1354,
+                "percent": 182,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5592,
+                "percent": 5014,
+                "state": false
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52130,
+                "percent": 4899,
+                "state": true
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 3060,
+                "percent": 398,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1407,
+                "percent": 5953,
+                "state": true
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 237,
+                "percent": 199,
+                "state": false
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1537,
+                "percent": 192,
+                "state": true
+            }
+        ]
+
+    },
+    "nov": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 13910,
+                "title": "Followers",
+                "today": 284,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 7309,
+                "title": "Followers",
+                "today": 1293,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 77001,
+                "title": "Followers",
+                "today": 10991,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 57674,
+                "title": "Subscribers",
+                "today": 1441,
+                "state": true
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 880,
+                "percent": 203,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 2718,
+                "percent": 202,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5606,
+                "percent": 6873,
+                "state": true
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52144,
+                "percent": 5511,
+                "state": false
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 3571,
+                "percent": 408,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1507,
+                "percent": 6554,
+                "state": false
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 251,
+                "percent": 219,
+                "state": true
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1551,
+                "percent": 212,
+                "state": false
+            }
+        ]
+
+    },
+    "dic": {
+        "dataHead": [
+            {
+                "icon": "./src/images/icon-facebook.svg",
+                "user": "@nathanf",
+                "number": 15996,
+                "title": "Followers",
+                "today": 296,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-twitter.svg",
+                "user": "@nathanf",
+                "number": 8452,
+                "title": "Followers",
+                "today": 1392,
+                "state": true
+            },
+            {
+                "icon": "./src/images/icon-instagram.svg",
+                "user": "@realnathanf",
+                "number": 88100,
+                "title": "Followers",
+                "today": 11390,
+                "state": false
+            },
+            {
+                "icon": "./src/images/icon-youtube.svg",
+                "user": "@Nathan F",
+                "number": 66012,
+                "title": "Subscribers",
+                "today": 1684,
+                "state": true
+            }
+        ],
+        "dataBody": [
+            {
+                "title": "Page Views",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 967,
+                "percent": 223,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-facebook.svg",
+                "number": 2730,
+                "percent": 222,
+                "state": false
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 5620,
+                "percent": 2133,
+                "state": false
+            },
+            {
+                "title": "Profile Views",
+                "icon": "./src/images/icon-instagram.svg",
+                "number": 52158,
+                "percent": 6184,
+                "state": true
+            },
+            {
+                "title": "Retweets",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 4133,
+                "percent": 419,
+                "state": true
+            },
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-twitter.svg",
+                "number": 1607,
+                "percent": 7154,
+                "state": true
+            },
+            
+            {
+                "title": "Likes",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 265,
+                "percent": 239,
+                "state": true
+            },
+            {
+                "title": "Total Views",
+                "icon": "./src/images/icon-youtube.svg",
+                "number": 1565,
+                "percent": 232,
+                "state": true
+            }
+        ]
+
+    }    
+}
