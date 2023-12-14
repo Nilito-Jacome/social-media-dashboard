@@ -290,3 +290,26 @@ ul {
         font-size: 3rem;
     }
 }
+@media screen and (min-width: 1620px) {
+    .overviews,
+    .followers {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    }
+    .follower {
+        padding: 2rem;
+    }
+    .followers__total p:nth-child(1) {
+        font-size: 4rem;
+    }
+    .followers__total p:nth-child(2) {
+        font-size: 1.2rem;
+    }
+    .overview {
+        padding: 2rem;  
+    }
+    .overview__botton > p {
+        font-size: 4rem;
+    }
+}
