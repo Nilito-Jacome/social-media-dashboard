@@ -270,9 +270,10 @@ ul {
 @media screen and (min-width: 1440px) {
     .overviews,
     .followers {
-        display: grid;
-        gap: 1rem;
         grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+    .follower__head {
+        font-size: 1.2rem;
     }
     .follower {
         padding: 1rem;
@@ -283,11 +284,25 @@ ul {
     .followers__total p:nth-child(2) {
         font-size: 1.2rem;
     }
+    .follower__today {  
+        font-size: 1.2rem;     
+    }
+    
     .overview {
         padding: 1rem;  
     }
+    .overview__top p {
+        font-size: 1.2rem;
+    }
+    img {
+        width: 25px;
+        height: 25px;
+    }
     .overview__botton > p {
         font-size: 3rem;
+    }
+    .overview__botton-percent {
+        font-size: 1.5rem;
     }
 }
 @media screen and (min-width: 2000px) {
