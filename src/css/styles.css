@@ -50,7 +50,6 @@ body {
 }
 .dashboard {
     padding: 2rem;
-    max-width: 1200px;
     margin: 0 auto;
 }
 ul {
@@ -238,4 +237,56 @@ ul {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+}
+
+
+
+
+@media screen and (min-width: 800px) {
+    .overviews,
+    .followers {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    }
+    .follower {
+        padding: 1rem;
+    }
+    .followers__total p:nth-child(1) {
+        font-size: 2rem;
+    }
+    .followers__total p:nth-child(2) {
+        font-size: 0.9rem;
+    }
+    .overview {
+        padding: 1rem;  
+    }
+    .overview__botton > p {
+        font-size: 2rem;
+    }
+}
+
+
+@media screen and (min-width: 1440px) {
+    .overviews,
+    .followers {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    }
+    .follower {
+        padding: 1rem;
+    }
+    .followers__total p:nth-child(1) {
+        font-size: 3rem;
+    }
+    .followers__total p:nth-child(2) {
+        font-size: 1.2rem;
+    }
+    .overview {
+        padding: 1rem;  
+    }
+    .overview__botton > p {
+        font-size: 3rem;
+    }
 }
